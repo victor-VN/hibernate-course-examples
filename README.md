@@ -15,3 +15,4 @@
  Extra
  
  - Eager vs Lazy Loading - hb-eager-vs-lazy-demo 
+ - Spring MVC CRUD with Hibernate - web-customer-tracker (included WAR file)
